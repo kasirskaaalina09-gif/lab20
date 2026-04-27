@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//main func
 int main() {
     std::string name;
     std::cout<<"Enter your name: ";
