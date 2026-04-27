@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-//main func
+//Главная функция
 int main() {
     std::string name;
     std::cout<<"Enter your name: ";
